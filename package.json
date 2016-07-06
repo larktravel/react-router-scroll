@@ -29,7 +29,7 @@
   "homepage": "https://github.com/taion/react-router-scroll#readme",
   "dependencies": {
     "history": "^3.0.0",
-    "scroll-behavior": "^0.7.0"
+    "scroll-behavior": "https://github.com/larktravel/scroll-behavior"
   },
   "peerDependencies": {
     "react": "^0.14.0 || ^15.0.0",
